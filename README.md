@@ -1,2 +1,2 @@
-# AdaptiveHuffman_Algorithm V
+# AdaptiveHuffman: ##Algorithm V
 ====================================
